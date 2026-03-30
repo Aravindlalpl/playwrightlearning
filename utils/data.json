@@ -1,0 +1,22 @@
+[{
+    "url": "https://www.saucedemo.com/",
+    "username": "standard_user",
+    "password": "secret_sauce",
+    "product": "Sauce Labs Backpack",
+    "firstname": "Roney",   
+    "lastname": "Coleman",
+    "postalcode": "12345",
+    "orderConfirmation": "Thank you for your order!"
+
+    
+},
+{"url": "https://www.saucedemo.com/",
+    "username": "standard_user",
+    "password": "secret_sauce",
+    "product": "Sauce Labs Bike Light",
+    "firstname": "Roney",   
+    "lastname": "Coleman",
+    "postalcode": "12345",
+    "orderConfirmation": "Thank you for your order!"
+
+}]
